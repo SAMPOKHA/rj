@@ -1,0 +1,97 @@
+
+1.hostgator login details 
+
+sampurnapokharkar@gmail.com
+Adh!r@0307
+Customer Id: 27386411
+
+
+Direct URL for your Website
+
+http://cp-in-1.hostgator.tempwebhost.net/~rajlaaga
+cPanel Login Details
+
+You can access your cPanel account directly as follows:
+
+cPanel URL	http://116.206.105.148/cpanel
+Username	rajlaaga
+Password	********** 
+AdmiN@12#34*
+
+
+
+
+
+2. Zoho mail Details
+
+sampurnapokharkar@gmail.com
+p/w : Sam@#0809
+
+User ID: 60024578098
+
+
+3. zoho emails
+
+support@rajlaxmiroadlines.com
+old-Password : RajSupport@2020
+new-Password : RajSupport@2023
+
+accounts@rajlaxmiroadlines.com
+old-Password : RajAccount@2020
+new-Password : RajAccount@2023
+
+
+maroti@rajlaxmiroadlines.com
+old-Password : RajMaroti@2020
+
+
+
+4. domainzguru
+
+Myaccount.domainzguru.in/login
+rajlaxmi
+Domainzguru@999	
+
+
+
+Username:	maroti@rajlaxmiroadlines.com
+Password:	Use the email account’s password.
+Incoming Server:	mail.rajlaxmiroadlines.com
+IMAP Port: 993 POP3 Port: 995
+Outgoing Server:	mail.rajlaxmiroadlines.com
+SMTP Port: 465
+
+
+outlook settings
+
+server deatsil
+
+configure zoho mail as imap in outlook
+
+contact person name : dakshaini
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
