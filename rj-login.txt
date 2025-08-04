@@ -82,6 +82,27 @@ contact person name : dakshaini
 
 
 
+3. Domainzguru login Details for Domain 
+url :  https://fts.secureapi.com.au/
+username : api_9965697
+Password : Domainzguru@999
+
+
+Expiry Date	27 Jul 2029
+
+Name Servers
+Name Server 1	ns1.cp-in-1.hostgatorwebservers.com		116.206.105.148	
+Name Server 2	ns2.cp-in-1.hostgatorwebservers.com		116.206.105.148
+
+DNS Settings
+A Record	rajlaxmiroadlines.com		27.124.125.173	
+www.rajlaxmiroadlines.com		27.124.125.173	
+MX Record	@.rajlaxmiroadlines.com		10mx.zoho.in	
+@.rajlaxmiroadlines.com		20mx2.zoho.in	
+@.rajlaxmiroadlines.com		50mx3.zoho.in
+
+
+
 
 
 
